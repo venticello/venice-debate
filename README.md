@@ -12,6 +12,9 @@ Then change system prompts and models at will and see how the result changes.
 
 You can also change the number of debate turns, the default is 3.
 
-There are plans to add the ability to select models from a dropdown in the future.
+
+In future: 
+- [x] select models from a dropdown
+- [ ] message streaming support
 
 MIT License
