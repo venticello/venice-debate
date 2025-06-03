@@ -1,7 +1,7 @@
 [<img src="https://venice.ai/images/icon-192.png" width="128"/>](https://venice.ai/) 
 ## Venice Debate
 AI debates between Venice models
-1. Load venice_debate.ipynb to https://colab.research.google.com/
+1. Load `venice_debate.ipynb` to https://colab.research.google.com/
 2. Get Venice API key https://venice.ai/settings/api
 3. Add key to Secrets, Name: `VENICE_KEY`
 4. Run (Execute the code cells one by one)
@@ -15,6 +15,9 @@ You can also change the number of debate turns, the default is 3.
 
 In future: 
 - [x] select models from a dropdown
-- [ ] message streaming support
+- [x] message streaming support
+- [x] python script
+
+In the __python__ directory, a version to run python script without Google Colab
 
 MIT License
